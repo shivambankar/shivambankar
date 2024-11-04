@@ -1,4 +1,3 @@
-# Adding a dummy heading
 ## Hi there 👋
 
 ## About Me
